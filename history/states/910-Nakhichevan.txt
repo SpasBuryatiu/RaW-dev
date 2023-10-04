@@ -1,0 +1,16 @@
+state={
+	id=910
+	name="STATE_910"
+	
+	history={
+		owner = SOV
+	}
+	
+	provinces={
+		6997 
+	}
+	state_category=rural
+	manpower=134212
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,27 @@
+state={
+	id=913
+	name="STATE_913"
+	
+	history={
+		owner = SOV
+		buildings = {
+			infrastructure = 1
+
+		}
+		victory_points = {
+			6730 3 
+		}
+		add_core_of = SOV
+		add_core_of = DAG
+
+	}
+
+	provinces={
+		683 700 712 728 6730 6748 11632 
+	}
+	
+	state_category=rural
+	manpower=351340
+	buildings_max_level_factor=1.000
+	local_supplies=6.000
+}
