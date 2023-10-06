@@ -13,6 +13,7 @@ state = {
 		}
 		add_core_of = GRK
 		add_claim_by = SOV
+
 		victory_points = {
 			9663 1
 		}

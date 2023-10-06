@@ -75,3 +75,22 @@ set_popularities = {
 	}
 }
 
+set_autonomy = {
+    target = GRK
+    autonomy_state = autonomy_integrated_puppet
+}
+GRK = {
+	set_politics = {
+		ruling_party = democratic
+		last_election = "1932.5.21"
+		election_frequency = 48
+		elections_allowed = no
+	}
+	set_popularities = {
+		democratic = 45
+		fascism = 10
+		communism = 25
+		neutrality = 20
+	}
+}
+

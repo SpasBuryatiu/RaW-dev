@@ -2,3 +2,4 @@ TRC	= "countries/Transcaucasia.txt"
 GRK = "countries/Mountainous Republic.txt"
 WKZ = "countries/White Kazakhstan.txt"
 SRD = "countries/MiddleAsiaSSR.txt"
+

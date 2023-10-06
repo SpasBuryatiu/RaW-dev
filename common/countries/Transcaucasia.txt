@@ -1,4 +1,4 @@
-graphical_culture = commonwealth_gfx
-graphical_culture_2d = commonwealth_2d
+graphical_culture = eastern_european_gfx
+graphical_culture_2d = eastern_european_2D
 
 color = rgb { 176  100  133 }
