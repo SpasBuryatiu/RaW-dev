@@ -3,7 +3,10 @@ state={
 	name="STATE_910"
 	
 	history={
-		owner = SOV
+		owner = TRC
+		add_core_of = TRC
+		add_claim_by = SOV
+		add_core_of = AZR
 	}
 	
 	provinces={

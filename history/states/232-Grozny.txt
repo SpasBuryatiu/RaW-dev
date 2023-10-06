@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = SOV
+		owner = GRK
 		buildings = {
 			infrastructure = 2
 
@@ -15,9 +15,9 @@ state={
 		victory_points = {
 			6701 3 
 		}
-		add_core_of = SOV
+		add_claim_by = SOV
 		add_core_of = DAG
-
+		add_core_of = GRK
 	}
 
 	provinces={

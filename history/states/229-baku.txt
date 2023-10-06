@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = SOV
+		owner = TRC
 		victory_points = {
 			7661 10 
 		}
@@ -20,9 +20,9 @@ state={
 			fuel_silo = 1
 
 		}
-		add_core_of = SOV
+		add_core_of = TRC
 		add_core_of = AZR
-
+		add_claim_by = SOV
 	}
 
 	provinces={

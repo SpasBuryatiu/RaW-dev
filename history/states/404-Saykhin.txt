@@ -4,7 +4,7 @@ state={
 	name="STATE_404"
 
 	history={
-		owner = SOV
+		owner = WKZ
 		victory_points = {
 			7597 1 
 		}
@@ -13,12 +13,12 @@ state={
 			infrastructure = 1
 
 		}
-		add_core_of = SOV
+		add_core_of = WKZ
 
 	}
 
 	provinces={
-		4578 4581 4636 4638 4686 7486 7556 7597 7777 10148 10353 10366 10506 10601 12329 12340 12397 
+		4578 4581 4636 4638 4686 7486 7556 7597 7657 7777 10148 10353 10366 10506 10601 12329 12340 12397 
 	}
 	manpower=447020
 	buildings_max_level_factor=1.000
