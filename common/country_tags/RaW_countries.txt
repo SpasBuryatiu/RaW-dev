@@ -1,1 +1,2 @@
 TRC	= "countries/Transcaucasia.txt"
+GRK = "countries/Mountainous Republic.txt"
