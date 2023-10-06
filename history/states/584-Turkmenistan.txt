@@ -4,7 +4,7 @@ state={
 	name="STATE_584"
 
 	history={
-		owner = SOV
+		owner = SRD
 		victory_points = {
 			12333 2 
 		}
@@ -13,9 +13,8 @@ state={
 			industrial_complex = 1
 
 		}
-		add_core_of = SOV
 		add_core_of = TMS
-
+		add_core_of = SRD
 	}
 
 	provinces={

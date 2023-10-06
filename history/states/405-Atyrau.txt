@@ -4,7 +4,7 @@ state={
 	name="STATE_405"
 
 	history={
-		owner = SOV
+		owner = UZB
 		victory_points = {
 			1459 3 
 		}
@@ -17,7 +17,6 @@ state={
 			air_base = 1
 
 		}
-		add_core_of = SOV
 		add_core_of = UZB
 		1939.1.1 = {
 			buildings = {
@@ -30,7 +29,7 @@ state={
 	}
 
 	provinces={
-		1459 4629 7682 10187 10488 11687 
+		1459 7682 10187 10488 11687 
 	}
 	manpower=4137910
 	buildings_max_level_factor=1.000

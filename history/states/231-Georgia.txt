@@ -17,8 +17,9 @@ state={
 			air_base = 3
 
 		}
-		add_core_of = TRC
+		add_claim_by = SOV
 		add_core_of = GEO
+		add_core_of = TRC
 		1939.1.1 = {
 			buildings = {
 				industrial_complex = 2

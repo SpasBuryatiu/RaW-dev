@@ -15,9 +15,9 @@ state={
 		victory_points = {
 			6701 3 
 		}
-		add_core_of = GRK
+		add_claim_by = SOV
 		add_core_of = DAG
-
+		add_core_of = GRK
 	}
 
 	provinces={
