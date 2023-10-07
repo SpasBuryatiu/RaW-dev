@@ -4,11 +4,10 @@ state={
 	name="STATE_206"
 
 	history={
-		owner = SOV
+		owner = BLR
 		victory_points = {
 			11370 20 
 		}
-
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 2
@@ -28,7 +27,7 @@ state={
 	}
 
 	provinces={
-		3267 3759 11216 11370 
+		3267 3759 11216 11285 11370 
 	}
 	manpower=1163163
 	buildings_max_level_factor=1.000

@@ -4,5 +4,6 @@ tags={
 	"Events"
 	"Map"
 }
+replace_path="history/states"
 supported_version="1.12.*"
-path="mod/TB3MOD"
+path="C:/Users/edwqe/Documents/Paradox Interactive/Hearts of Iron IV/mod/TB3MOD"
