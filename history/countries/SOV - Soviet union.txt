@@ -700,11 +700,15 @@ SOV = {
 		}
 		set_autonomy = {
 			target = SRD
+			target = BLR
+			target = UKR
 			autonomy_state = autonomy_integrated_puppet
 		}
 	}
 	else = {
 		puppet = SRD
+		puppet = BLR
+		puppet = UKR
 	}
 }
 

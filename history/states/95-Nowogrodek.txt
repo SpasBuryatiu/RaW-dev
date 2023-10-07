@@ -7,7 +7,7 @@ state={
 		victory_points = {
 			9304 1 
 		}
-		owner = POL
+		owner = BLR
 		buildings = {
 			infrastructure = 3
 			air_base = 3
@@ -19,7 +19,7 @@ state={
 	}
 
 	provinces={
-		318 3281 3309 3366 3393 6359 6413 9236 9304 9359 11341 13206 
+		560 3309 3556 6280 6306 6359 6415 9236 9304 9359 11341 
 	}
 	manpower=1598900
 	buildings_max_level_factor=1.000
