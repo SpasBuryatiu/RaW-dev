@@ -1,4 +1,4 @@
-name="TB3MOD States"
+name="Red and White: Russia Divided"
 
 tags={
 	"Alternative History"
@@ -6,4 +6,4 @@ tags={
 	"Map"
 }
 supported_version="1.12.*"
-path="mod/TB3MOD"
+path="mod/RaW-dev"
